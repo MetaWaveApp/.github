@@ -2,7 +2,7 @@
 
 Aplicação que visa entender a evolução de popularidade de jogos em plataformas de streaming
 
-Este é o fluxo de toda a aplicação:
+Abaixo mostra o fluxo dos dados e todo o processo de transformação até a aplicação web
 
 <img src="https://raw.githubusercontent.com/MetaWaveApp/.github/refs/heads/main/profile/metawave.jpg"/>
 
